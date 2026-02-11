@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning computer science
 - 💞️ I’m looking to collaborate on resources for first security analyst jobs!
 - 📫 How to reach me: email/Linkedin
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I made some money by jailbreaking iPods in middle school 😊
 
 <!---
